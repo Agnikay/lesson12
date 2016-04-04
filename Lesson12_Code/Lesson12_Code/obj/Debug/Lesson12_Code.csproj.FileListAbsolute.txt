@@ -1,0 +1,6 @@
+D:\MC\Lectures\12\Lesson_Code\Lesson12_Code\Lesson12_Code\bin\Debug\Lesson12_Code.exe.config
+D:\MC\Lectures\12\Lesson_Code\Lesson12_Code\Lesson12_Code\bin\Debug\Lesson12_Code.exe
+D:\MC\Lectures\12\Lesson_Code\Lesson12_Code\Lesson12_Code\bin\Debug\Lesson12_Code.pdb
+D:\MC\Lectures\12\Lesson_Code\Lesson12_Code\Lesson12_Code\obj\Debug\Lesson12_Code.csprojResolveAssemblyReference.cache
+D:\MC\Lectures\12\Lesson_Code\Lesson12_Code\Lesson12_Code\obj\Debug\Lesson12_Code.exe
+D:\MC\Lectures\12\Lesson_Code\Lesson12_Code\Lesson12_Code\obj\Debug\Lesson12_Code.pdb
